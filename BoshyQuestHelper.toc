@@ -1,0 +1,9 @@
+## Interface: 40300
+## Title: |cffFF8000Boshy Quest Helper|r
+## Version: 1.0.0
+## Notes: |n|cffFF8000Features:|r |n- |cffFFFFFFAuto Quest Accept|r;|n- |cffFFFFFFAuto Quest Complete|r;|n- |cffFFFFFFAuto Quest Share|r;|n- |cffFFFFFFAuto Class Training|r.|n|n|cffFF8000NOTE:|r By default any of these modules only work if you have your CTRL key pressed when you interact with NPCs. It's a security feature to work around any situation not yet fully implemented or tested. This feature can be toggled with the command /bqh security.|n## Author: Angus Bailey
+## OptionalDependencies: QuestReward
+## SavedVariablesPerCharacter: BQH_Options
+
+BoshyQuestHelper.lua
+BoshyQuestHelper.xml
