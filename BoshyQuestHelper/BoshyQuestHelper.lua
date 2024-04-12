@@ -1,7 +1,8 @@
-local BQH_Version = "1.1.0";
+local BQH_Version = "1.0.0";
 local BQH_Name = "Boshy Quest Helper";
 local BQH_ORANGE = "|cffFF8000";
 local BQH_WHITE = "|cffFFFFFF";
+local AQT_BLUE = "|c000099ff";
 local BQH_END_COLOR = "|r";
 local BQH_Title = BQH_ORANGE .. BQH_Name .. ":" .. BQH_END_COLOR .. " ";
 
